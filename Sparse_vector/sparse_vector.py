@@ -1,5 +1,3 @@
-# Created by Nazar
-
 import numpy as np
 from joblib import dump, load
 
